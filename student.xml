@@ -1,0 +1,29 @@
+<student>
+  <firstname>Samatha</firstname>
+  <lastname>K</lastname>
+  <dob>21-01-20</dob>
+  <addresses>
+    <address type="temporary">
+       <doorNo>6-129</doorNo>
+       <streetName>vidhyanagar</streetName>
+    <address>
+    <address type="temporary">
+      <doorNo>6-129</doorNo>
+      <streetName>vidhyanagar</streetName>
+    <address> 
+  <addresses>
+<student><student>
+	<firstname>Samatha</firstname>
+	<lastname>K</lastname>
+	<dob>21-01-20</dob>
+	<addresses>
+		<address type="temporary">
+			<doorNo>6-129</doorNo>
+			<streetName>vidhyanagar</streetName>
+			<address>
+				<address type="temporary">
+					<doorNo>6-129</doorNo>
+					<streetName>vidhyanagar</streetName>
+					<address>
+						<addresses>
+							<student>

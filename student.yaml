@@ -1,0 +1,30 @@
+- first_name: "samatha"
+  dob: 01-01-01
+  # - is for list
+  addresses:
+    - type: permanent
+      doorNo: 6-129
+      streetno: vidhyanagar
+      city: karimnagar
+    - type: temporary
+      doorNo: 6-129
+      streetno: vidhyanagar
+      city: karimnagar
+  skills:
+    OS: Linux
+    CM: ansible
+    IDE: ansible
+
+- first_name: "samatha"
+  lastname: "K"
+  dob: 01-01-01
+  # - is for list
+  addresses:
+    - type: permanent
+      doorNo: 6-129
+      streetno: vidhyanagar
+      city: karimnagar
+  skills:
+   OS: Linux
+   IDE: Vscode
+   CM: ansible

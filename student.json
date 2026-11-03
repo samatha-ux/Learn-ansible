@@ -1,0 +1,26 @@
+{
+ "firstName": "samatha",
+ "lastName": "K",
+ "dob" : "01-01-01",
+ "address":[
+    {
+        "type":"permanent",
+        "doorNo" : "6-129",
+        "streetname" : "vidhyanagar",
+        "city" : "hyderabad"
+    },
+
+    {
+      "type":"permanent",
+        "doorNo" : "6-129",
+        "streetname" : "vidhyanagar",
+        "city" : "hyderabad"  
+    }
+ ],
+ "skills":{
+    "OS":"Linux",
+    "IDE":"VsCode",
+    "CM":"ansible"
+ }
+
+}
