@@ -1,4 +1,4 @@
-- name: property from father
+- name: father
   hosts: local
   connection: local
   var: 
