@@ -6,3 +6,8 @@
      package: 
       name: nginx
       state: present
+   - name: start nginx
+     service:  # module for
+      name: nginx
+      state: started
+      enabled: yes  
