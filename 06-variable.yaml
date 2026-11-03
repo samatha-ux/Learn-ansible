@@ -1,4 +1,4 @@
-- name: demo
+- name: demo on task leval variable
   hosts: local
   connection: local
   var: 
