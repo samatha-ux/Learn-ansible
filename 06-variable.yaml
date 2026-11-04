@@ -1,7 +1,7 @@
 - name: demo on task leval variable
   hosts: local
   connection: local
-  var: 
+  vars: 
    property: "100 acres"
    tasks:
    - name: print vars
