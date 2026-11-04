@@ -4,6 +4,6 @@
   vars:
    vars_file: course.yaml
   tasks:
- - name: 
+  -name: 
     debug:
      msg: "hiii iam learning {{course}},from {{trainer}} , duration is {{duration}}"
