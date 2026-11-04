@@ -3,7 +3,7 @@
   connection: local
   vars: 
    property: "100 acres"
-   tasks:
-   - name: print vars
-     debug:
-      msg: "I got {{property}} from my father"
+  tasks:
+    - name: print vars
+      debug:
+       msg: "I got {{property}} from my father"
