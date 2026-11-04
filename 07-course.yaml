@@ -2,7 +2,8 @@
   hosts: local
   connection: local
   vars:
-   vars_file: course.yaml
+   vars_files: 
+    -course.yaml
   tasks:
   - name: 
      debug:
